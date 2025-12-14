@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Unnati</h1>
+<h3 align="center">Full-Stack Developer | AI / ML Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;MERN+%26+Django;AI+%2F+ML+Enthusiast;Always+Learning+%26+Building&center=true&width=500&height=45">
+</p>
+
+---
 
 ### 👩‍💻 About Me
 
@@ -38,15 +45,6 @@
 * Basic understanding of Large Language Models (LLMs)
 
 ---
-
-### 🤖 AI / ML Tech Stack
-
-* **Languages & Libraries:** Python, NumPy, Pandas, Scikit-learn
-* **Core ML:** Supervised & Unsupervised Learning, Model Evaluation
-* **NLP:** Text preprocessing, basic NLP pipelines
-* **GenAI:** Retrieval-Augmented Generation (RAG), embeddings
-* **LLMs:** Basic understanding of Large Language Models
-* **Applied AI:** Integrating ML/AI features into full-stack web applications
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unnati1007&layout=compact" />
