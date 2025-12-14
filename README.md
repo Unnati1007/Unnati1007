@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Unnati</h1>
-<h3 align="center">Full-Stack Developer | AI / ML Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | Python Developer | AI / ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;MERN+%26+Django;AI+%2F+ML+Enthusiast;Always+Learning+%26+Building&center=true&width=500&height=45">
@@ -43,12 +43,6 @@
 * Retrieval-Augmented Generation (RAG)
 * Embeddings & Vector Search
 * Basic understanding of Large Language Models (LLMs)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unnati1007&layout=compact" />
-</p>
 
 ---
 
