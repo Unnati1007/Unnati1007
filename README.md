@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Unnati</h1>
-<h3 align="center">Computer Science Student & Web Developer</h3>
+<h3 align="center">Information Technology & Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Python+Developer;AI+%2F+ML+Enthusiast&center=true&width=500&height=45">
