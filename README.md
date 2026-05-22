@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-* 🎓 Computer Science student focused on building real-world, impactful software
+* 🎓 Information Technology student focused on building real-world, impactful software
 * 💻 Full-stack developer experienced with **MERN stack** and **Python & Django**
 * 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
 * ⚡ Enjoy turning ideas into scalable, user-focused applications
